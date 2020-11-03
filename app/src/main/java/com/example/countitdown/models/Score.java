@@ -27,4 +27,5 @@ public class Score {
     public void setPlayer2Score(int player2Score) {
         this.player2Score = player2Score;
     }
+
 }
